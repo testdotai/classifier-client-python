@@ -1,6 +1,6 @@
 # Test.ai Classifier - Python Client
 
-The code in this directory defines a client library for use with the gRPC-based Test.ai classifier server located in the main directory of this repo.
+The code in this directory defines a client library for use with the [gRPC-based Test.ai classifier server](https://github.com/testdotai/appium-classifier-plugin).
 
 ## Installation & Setup
 
